@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block body %}
+
+<style>
+  .about-section {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    padding: 4rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.05);
+    margin: 2rem auto;
+    max-width: 800px;
+  }
+</style>
+
+<div class="container">
+  <div class="about-section">
+    <h1 class="mb-3 text-center">📌 About MyTodo</h1>
+    <p class="lead text-muted text-center">Your smart task organizer</p>
+    <hr>
+    <p>
+      <strong>MyTodo</strong> is a simple and elegant todo-list web application built using Flask. It helps you stay productive by organizing tasks and managing time efficiently.
+    </p>
+    <p>
+      This project was created as a learning project to practice web development with Flask, Bootstrap, and Jinja2. You can add, update, and delete todos easily in a responsive interface.
+    </p>
+    <p>
+      Future enhancements might include login support, category tags, due dates, and priority levels!
+    </p>
+    <p class="mt-4"><strong>Developer:</strong> Asma 👩‍💻</p>
+  </div>
+</div>
+
+{% endblock body %}
