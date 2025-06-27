@@ -25,5 +25,15 @@ Easily organize your day, stay productive, and track your tasks with add, update
 
 ---
 
+## 📸 Screenshots
+
+### ➕ Add Todo Page
+![Add Todo](screenshots/add-todo.png)
+
+### 📋 View Todos
+![View Todos](screenshots/view-todos.png)
+
+---
+
 
 
