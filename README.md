@@ -31,7 +31,7 @@ Easily organize your day, stay productive, and track your tasks with add, update
 ![Add Todo](screenshots/add-todo.png)
 
 ### 📋 View Todos
-![View Todos](screenshots/view-todos.png)
+![View Todo](screenshots/view-todo.png)
 
 ---
 
